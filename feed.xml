@@ -3,10 +3,46 @@
     <title>Cerulean360</title>
     <link href="https://github.com/Cerulean360/vigilant-adventure/feed.xml" rel="self" />
     <link href="https://github.com/Cerulean360/vigilant-adventure" />
-    <updated>1969-12-31T19:00:00-05:00</updated>
+    <updated>2023-10-07T08:00:25-04:00</updated>
     <author>
         <name>Cerulean360</name>
     </author>
     <id>https://github.com/Cerulean360/vigilant-adventure</id>
 
+    <entry>
+        <title>Blog</title>
+        <author>
+            <name>Cerulean360</name>
+        </author>
+        <link href="https://github.com/Cerulean360/vigilant-adventure/blog.html"/>
+        <id>https://github.com/Cerulean360/vigilant-adventure/blog.html</id>
+
+        <updated>2023-10-07T08:00:25-04:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Services</title>
+        <author>
+            <name>Cerulean360</name>
+        </author>
+        <link href="https://github.com/Cerulean360/vigilant-adventure/services.html"/>
+        <id>https://github.com/Cerulean360/vigilant-adventure/services.html</id>
+
+        <updated>2023-10-07T08:00:17-04:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>About Cerulean360</title>
+        <author>
+            <name>Cerulean360</name>
+        </author>
+        <link href="https://github.com/Cerulean360/vigilant-adventure/about-cerulean360.html"/>
+        <id>https://github.com/Cerulean360/vigilant-adventure/about-cerulean360.html</id>
+
+        <updated>2023-10-07T08:00:05-04:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>

@@ -5,9 +5,46 @@
     "home_page_url": "https://github.com/Cerulean360/vigilant-adventure",
     "feed_url": "https://github.com/Cerulean360/vigilant-adventure/feed.json",
     "user_comment": "",
+    "icon": "https://github.com/Cerulean360/vigilant-adventure/media/website/Design.png",
     "author": {
         "name": "Cerulean360"
     },
     "items": [
+        {
+            "id": "https://github.com/Cerulean360/vigilant-adventure/blog.html",
+            "url": "https://github.com/Cerulean360/vigilant-adventure/blog.html",
+            "title": "Blog",
+            "author": {
+                "name": "Cerulean360"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-10-07T08:00:25-04:00",
+            "date_modified": "2023-10-07T08:00:25-04:00"
+        },
+        {
+            "id": "https://github.com/Cerulean360/vigilant-adventure/services.html",
+            "url": "https://github.com/Cerulean360/vigilant-adventure/services.html",
+            "title": "Services",
+            "author": {
+                "name": "Cerulean360"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-10-07T08:00:17-04:00",
+            "date_modified": "2023-10-07T08:00:17-04:00"
+        },
+        {
+            "id": "https://github.com/Cerulean360/vigilant-adventure/about-cerulean360.html",
+            "url": "https://github.com/Cerulean360/vigilant-adventure/about-cerulean360.html",
+            "title": "About Cerulean360",
+            "author": {
+                "name": "Cerulean360"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-10-07T08:00:05-04:00",
+            "date_modified": "2023-10-07T08:00:05-04:00"
+        }
     ]
 }
