@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Cerulean360",
+    "description": "",
+    "home_page_url": "https://github.com/Cerulean360/vigilant-adventure",
+    "feed_url": "https://github.com/Cerulean360/vigilant-adventure/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Cerulean360"
+    },
+    "items": [
+    ]
+}
